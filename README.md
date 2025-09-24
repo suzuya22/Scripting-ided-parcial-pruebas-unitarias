@@ -1,3 +1,7 @@
 # Scripting-ided-parcial-pruebas-unitarias
 Juan Sebastian Lopez Martinez - 000492240
 Juan Nicolas Correa - 000509358
+
+Debemos señalar unas cosas, al momento de escribir las pruebas entendimos bien el flujo de diseñar la tabla de tipos, realizar los 40 casos mediante testcase y tambien la creacion de las clases de los pokemones y los move, como los pokemones para los 5 casos estaban y tambien para la simulacion de la tabla de los 40 como estos intercalan entre especial y no especial, el problema es que un momento de la nada el archivo dejo de validar el "using NUnit.Framework;", intentamos mil cosas como crear un archivo nuevo de 0, cambiar codigo, verificar si en el .csproj si estaba referenciado y nada, seguia igual, tambien vimos si de forma global era que lo estaba llamando y no era necesario agregarlo porque se estaria haciendo 2 veces, pero tampoco funciono, realmente se supone que lo unico que fallo fue lo del unit, de igual forma podemos explicar el codigo y como es cada parte del flujo ya que si lo entendimos perfectamente, usamos modelo generativo para ahorrarnos tiempo en escribir los 40 casos ya que estos estaban en la tabla y solo era cambiar valores para cada uno de los 40.
+
+de igual forma en cualquier caso que sea la nota, nos gustaria en el feedback o en otro espacio de que forma se podria resolver un problema asi, ya que las medidas que buscamos no parecian funcionar, en cualquier caso, feliz dia profe.
